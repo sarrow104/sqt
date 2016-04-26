@@ -1,3 +1,11 @@
+/**
+ *  Copyleft(c) 549506937@qq.com
+ *  sarrow
+ *
+ *  @file  sqt/QFastLayout.hpp
+ *
+ *  @brief FastLayout for qt widget
+ */
 #ifndef __QFASTLAYOUT_HPP_1461555247__
 #define __QFASTLAYOUT_HPP_1461555247__
 

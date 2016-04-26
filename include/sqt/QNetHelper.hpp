@@ -1,3 +1,12 @@
+/**
+ *  Copyleft(c) 549506937@qq.com
+ *  author:sarrow
+ *
+ *  @file  sqt/QNetHelper.hpp
+ *
+ *  @brief QNet... Widget helper
+ */
+
 #ifndef __QNETHELPER_1460383871__
 #define __QNETHELPER_1460383871__
 
