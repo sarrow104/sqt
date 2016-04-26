@@ -2,8 +2,8 @@
 
 # 我的Qt扩展
 
-> sqt
->     ├── QFastLayout.hpp
+> sqt  
+>     ├── QFastLayout.hpp  
 >     └── QNetHelper.hpp
 
 ## QFastLayout.hpp qt界面快速布局。
